@@ -1,0 +1,6 @@
+- Hola, @alvarotrujillo here 👋🏼;
+- Currently learning HTML, CSS, JavaScript and diving into Ruby on Rails this summer 🌱;
+- I'm getting started with my career switch to web development 👨🏻‍💻; 
+- My background is legal, specifically, energy commodity contracts ⚖️;
+- I’m interested in open source software and the impact blockchains will have on web applications 🟠;
+- Get in touch through LinkedIn, https://www.linkedin.com/in/alvaro-trujillo/. 
