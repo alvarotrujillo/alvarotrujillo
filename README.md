@@ -1,6 +1,6 @@
 <h2><strong>Hola 👋🏼</strong></h2>
 
-- Currently learning Ruby, Rails and JavaScript 🌱;
+- Currently learning Ruby on Rails and JavaScript 🌱;
 - I've started my career switch to web development 👨🏻‍💻; 
 - My background is legal, having worked on energy commodity contracts for 5 years ⚖️;
 - I’m interested in open source software and the impact blockchains will have on web applications 🟠
