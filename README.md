@@ -1,8 +1,8 @@
 <h2><strong>Hey there 👋🏼</strong></h2>
 
-- Currently learning Ruby, Rails and JavaScript 🌱;
+- Currently learning more vanilla JavaScript and Node.js 🌱;
 - I've started my career switch to web development 👨🏻‍💻; 
-- My background is legal, having worked on energy commodity contracts for 5 years ⚖️;
+- My background is legal, having worked on energy commodity contracts for 4 years ⚖️;
 - Excited about contributing to open source software and learning from other developers' journeys 🤝 
 
 <h2><strong>Tech Stack</strong></h2>
