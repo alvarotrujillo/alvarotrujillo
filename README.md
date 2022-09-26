@@ -1,5 +1,6 @@
 <h2><strong>Hey there 👋🏼</strong></h2>
 
+<a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=500&color=034693&width=435&height=24&lines=I+am+a+web+developer;I'm+a+former+commodity+contract+specialist;I+am+obsessed+with+Chelsea+Football+Club;...and+I'm+always+looking+for+delicious+vegan+food;reach+out+and+let's+build+something+awesome!" alt="Typing SVG" /></a>
 - Currently learning more vanilla JavaScript and Node.js 🌱;
 - I've started my career switch to web development 👨🏻‍💻; 
 - My background is legal, having worked on energy commodity contracts for 4 years ⚖️;
