@@ -1,10 +1,14 @@
-<h2><strong>Hey there 👋🏼</strong></h2>
+<h2><strong>Hello there 👋🏼🧤</strong></h2>
+<h3>I am...</h3>
 
-<a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=500&color=034693&width=435&height=24&lines=I+am+a+web+developer;I'm+a+former+commodity+contract+specialist;I+am+obsessed+with+Chelsea+Football+Club;...and+I'm+always+looking+for+delicious+vegan+food;reach+out+and+let's+build+something+awesome!" alt="Typing SVG" /></a>
-- Currently learning more vanilla JavaScript and Node.js 🌱;
-- I've started my career switch to web development 👨🏻‍💻; 
-- My background is legal, having worked on energy commodity contracts for 4 years ⚖️;
-- Excited about contributing to open source software and learning from other developers' journeys 🤝 
+<a href=""><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=14&duration=3000&pause=60&color=FF28EC&height=35&lines=learning+more+about+JavaScript+%26+Node.js;a+former+commodity+contract+specialist;obsessed+with+Chelsea+Football+Club;...+always+looking+for+delicious+vegan+food;hoping+you+reach+out%2C+let's+build+together!" alt="Typing SVG" /></a>
+<h2><strong>TL;DR</strong></h2>
+
+- Currently focused on vanilla JavaScript, Node.js and learning MongoDB 🦝
+- Graduated from Le Wagon Amsterdam's coding bootcamp in September '22 🌱
+- I started my career switch to web development after an interest in smart contracts 👨🏻‍💻 
+- My studies (bachelor's and master's) were in international law, and I worked in energy commodity contracts for 4 years ⚖️
+- I'm excited about growing my tech stack, learning from other developers' journeys and contributing to open source code 🤝 
 
 <h2><strong>Tech Stack</strong></h2>
 
