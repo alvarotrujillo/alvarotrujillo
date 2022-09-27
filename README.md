@@ -1,7 +1,7 @@
 <h2><strong>Hello there 👋🏼🧤</strong></h2>
 <h3>I am...</h3>
 
-<a href="www.atrujillo.dev"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=14&duration=3000&pause=60&color=FF28EC&height=35&lines=learning+more+about+JavaScript+%26+Node.js;a+former+commodity+contract+specialist;obsessed+with+Chelsea+Football+Club;...+always+looking+for+delicious+vegan+food;hoping+you+reach+out%2C+let's+build+together!" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=14&duration=3000&pause=60&color=FF28EC&height=35&lines=learning+more+about+JavaScript+%26+Node.js;a+former+commodity+contract+specialist;obsessed+with+Chelsea+Football+Club;...+always+looking+for+delicious+vegan+food;hoping+you+reach+out%2C+let's+build+together!" alt="Typing SVG" /></a>
 <h2><strong>TL;DR</strong></h2>
 
 - Currently focused on vanilla JavaScript, Node.js and learning MongoDB 🦝
