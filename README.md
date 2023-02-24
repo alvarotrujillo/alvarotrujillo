@@ -1,14 +1,14 @@
 <h2><strong>Hello there 🧤</strong></h2>
 <h3>I am...</h3>
 
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=14&duration=3000&pause=60&color=00ad68&height=35&lines=learning+more+about+JavaScript+%26+Node.js;a+former+commodity+contract+specialist;obsessed+with+Chelsea+Football+Club;...+always+looking+for+delicious+vegan+food;hoping+you+reach+out%2C+let's+build+together!" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=14&duration=3000&pause=60&color=00ad68&height=35&lines=practicing+my+JavaScript+%26+Node.js+skills;a+former+commodity+contract+specialist;obsessed+with+Chelsea+Football+Club;...+always+looking+for+delicious+vegan+food;hoping+you+reach+out%2C+let's+build+together!" alt="Typing SVG" /></a>
 <h2><strong>TL;DR</strong></h2>
 
-- Currently focused on Node.js and learning MongoDB 🦝
-- Graduated from Le Wagon Amsterdam's coding bootcamp in September '22 🌱
-- I started my career switch to web development after an interest in smart contracts 👨🏻‍💻 
-- My studies (bachelor's and master's) were in international law, and I worked in energy commodity contracts for 4 years ⚖️
-- I'm excited about growing my tech stack, learning from other developers' journeys and contributing to open source code 🤝 
+- Data Migration Engineer since September '22 🌱
+- Currently focused on mastering Node.js, Python and MongoDB 🦝
+- Former Legal Professional in energy trading for 4 years ⚖️
+- Career switch to programming after an active interest in building smart contracts 👨🏻‍💻 
+- Always keen to learn from other developers' journeys, get in touch through the links below 🤝 
 
 <h2><strong>Tech Stack</strong></h2>
 
