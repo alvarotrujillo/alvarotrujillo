@@ -1,7 +1,7 @@
 <h2><strong>Hello there 🧤</strong></h2>
 <h3>I am...</h3>
 
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=14&duration=3000&pause=60&color=00ad68&height=35&lines=practicing+my+JavaScript+%26+Node.js+skills;a+former+commodity+contract+specialist;obsessed+with+Chelsea+Football+Club;...+always+looking+for+delicious+vegan+food;hoping+you+reach+out%2C+let's+build+together!" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=14&duration=3000&pause=60&color=00ad68&height=35&lines=a+former+commodity+contract+specialist;obsessed+with+Chelsea+Football+Club;...+always+looking+for+delicious+vegan+food;hoping+you+reach+out%2C+let's+build+together!" alt="Typing SVG" /></a>
 <h2><strong>TL;DR</strong></h2>
 
 - Data Migration Engineer since September '22 🌱
