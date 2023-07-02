@@ -5,7 +5,7 @@
 <h2><strong>TL;DR</strong></h2>
 
 - Data Migration Engineer since September '22 🌱
-- Currently focused on mastering Node.js, Python and MongoDB 🦝
+- Currently focused on mastering Python, Elasticsearch and Kibana 🦝
 - Former Legal Professional in energy trading for 4 years ⚖️
 - Career switch to programming after an active interest in building smart contracts 👨🏻‍💻 
 - Always keen to learn from other developers' journeys, get in touch through the links below 🤝 
