@@ -1,14 +1,14 @@
 <h2><strong>Hello there 🧤</strong></h2>
 <h3>I am...</h3>
 
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=14&duration=3000&pause=60&color=00ad68&height=35&lines=a+former+commodity+contract+specialist;obsessed+with+Chelsea+Football+Club;...+always+looking+for+delicious+vegan+food;hoping+you+reach+out%2C+let's+build+together!" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=14&duration=3000&pause=60&color=00ad68&height=35&lines=a+former+commodity+contract+specialist;obsessed+with+Chelsea+Football+Club;...+always+looking+for+delicious+vegan+food!" alt="Typing SVG" /></a>
 <h2><strong>TL;DR</strong></h2>
 
-- Data Migration Engineer since September '22 🌱
-- Currently focused on mastering Python, Elasticsearch and Kibana 🦝
-- Former Legal Professional in energy trading for 4 years ⚖️
-- Career switch to programming after an active interest in building smart contracts 👨🏻‍💻 
-- Always keen to learn from other developers' journeys, get in touch through the links below 🤝 
+- Data Migration Engineer & Back-end Developer 👨🏻‍💻
+- Technical expertise: Node.js, Python, Ruby, MongoDB, MySQL, Elasticsearch, and Kibana 🐙
+- Former Legal Professional in energy trading for more than 4 years ⚖️
+- Career switch to programming after an active interest in building smart contracts 📚 
+- Get in touch through the links below 🤝 
 
 <h2><strong>Tech Stack</strong></h2>
 
