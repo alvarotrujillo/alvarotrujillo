@@ -1,17 +1,44 @@
-<h2><strong>Hello there 🧤</strong></h2>
-<div>I am...</div>
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=14&duration=3000&pause=60&color=00ad68&height=35&lines=a+former+commodity+contract+specialist;obsessed+with+Chelsea+Football+Club;+always+looking+for+delicious+vegan+food!" alt="Typing SVG" /></a>
-<h2><strong>TL;DR</strong></h2>
+## Hello there 🧤
 
-- Data Engineer & ETL Professional 👨🏻‍💻
-- Experienced in Node.js, Python, Ruby, MongoDB, MySQL, PowerBI, Elasticsearch, Kibana and others 🐙
-- Former Legal Professional in energy trading ⚖️
-- Pulled into programming via smart contracts 📚
+I am...
 
-<h2><strong>Stack</strong></h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=14&duration=3000&pause=60&color=00AD68&height=35&lines=a+Senior+Data+Engineer+who+ships+pipelines;a+former+energy-trading+contract+specialist;obsessed+with+Chelsea+Football+Club;always+hunting+for+delicious+vegan+food!)](https://git.io/typing-svg)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
+## TL;DR
 
-<h2><strong>Contact</strong></h2>
+- 🛠️ **Senior Data Engineer** at Workspace 365 where I build and optimize data pipelines, automate workflows, and turn messy data into decisions teams can actually act on
+- 🔗 I live in the integration layer: syncing and modelling data across HubSpot, Planhat, Pendo and Intercom using **Azure Data Factory**, **dbt** and **n8n**
+- 📊 **Power BI** on **SQL Server** for the reporting that revenue and CS teams rely on day-to-day
+- 🐍 **Python** & **SQL** are my daily drivers for everything from API integrations to transformation logic
+- ⚖️ Former legal professional in energy trading, got pulled into code through smart contracts and never looked back
+- 🎓 [Le Wagon](https://www.lewagon.com/) bootcamp grad who went all-in on data
 
-<a href="https://www.linkedin.com/in/alvaro-trujillo/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://twitter.com/TrujiCodes">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+## Stack
+
+**Day-to-day**
+
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Also worked with**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-trujillo/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TrujiCodes)
